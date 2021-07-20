@@ -8,6 +8,17 @@ I'm really interested in designing and implementing the modern user interfaces. 
 ## Dependencies
 - [PySide6](https://pypi.org/project/PySide6/)
 
+## Running
+> Run the commands below depending on your system
+> ## **Windows**:
+```console
+python main.py
+```
+> ## **MacOS and Linux**:
+```console
+python3 main.py
+```
+
 ## References
 - [Pyside6 doc](https://doc.qt.io/qtforpython/)
 
