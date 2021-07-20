@@ -7,6 +7,7 @@ I'm really interested in designing and implementing the modern user interfaces. 
 
 ## Dependencies
 - [PySide6](https://pypi.org/project/PySide6/)
+- [Poppins font](https://fonts.google.com/specimen/Poppins)
 
 ## Running
 > Run the commands below depending on your system
