@@ -184,7 +184,7 @@ QScrollBar::add-page:horizontal {
              <string/>
             </property>
             <property name="pixmap">
-             <pixmap>icons/Asset 3 1.png</pixmap>
+             <pixmap>../../PicoSoft-project/icons/Asset 3 1.png</pixmap>
             </property>
             <property name="alignment">
              <set>Qt::AlignCenter</set>
@@ -206,7 +206,7 @@ QScrollBar::add-page:horizontal {
              <string/>
             </property>
             <property name="pixmap">
-             <pixmap>icons/Asset 4 1.png</pixmap>
+             <pixmap>../../PicoSoft-project/icons/Asset 4 1.png</pixmap>
             </property>
            </widget>
           </item>
@@ -1054,7 +1054,7 @@ color: #6e6f74;</string>
                </property>
                <property name="icon">
                 <iconset>
-                 <normaloff>icons/messages-box.png</normaloff>icons/messages-box.png</iconset>
+                 <normaloff>../../PicoSoft-project/icons/messages-box.png</normaloff>../../PicoSoft-project/icons/messages-box.png</iconset>
                </property>
               </widget>
              </item>
@@ -1099,7 +1099,7 @@ color: #6e6f74;</string>
                </property>
                <property name="icon">
                 <iconset>
-                 <normaloff>icons/bell-icon.png</normaloff>icons/bell-icon.png</iconset>
+                 <normaloff>../../PicoSoft-project/icons/bell-icon.png</normaloff>../../PicoSoft-project/icons/bell-icon.png</iconset>
                </property>
               </widget>
              </item>
@@ -1374,7 +1374,7 @@ border: none;</string>
                               </property>
                               <property name="icon">
                                <iconset>
-                                <normaloff>icons/buttonRight.png</normaloff>icons/buttonRight.png</iconset>
+                                <normaloff>../../PicoSoft-project/icons/buttonRight.png</normaloff>../../PicoSoft-project/icons/buttonRight.png</iconset>
                               </property>
                              </widget>
                             </item>
@@ -1493,7 +1493,7 @@ border: none;</string>
                         </property>
                         <property name="icon">
                          <iconset>
-                          <normaloff>icons/plus.png</normaloff>icons/plus.png</iconset>
+                          <normaloff>../../PicoSoft-project/icons/plus.png</normaloff>../../PicoSoft-project/icons/plus.png</iconset>
                         </property>
                        </widget>
                       </item>
@@ -1732,7 +1732,7 @@ border: none;</string>
                               </property>
                               <property name="icon">
                                <iconset>
-                                <normaloff>icons/buttonRight.png</normaloff>icons/buttonRight.png</iconset>
+                                <normaloff>../../PicoSoft-project/icons/buttonRight.png</normaloff>../../PicoSoft-project/icons/buttonRight.png</iconset>
                               </property>
                              </widget>
                             </item>
@@ -1854,7 +1854,7 @@ border: none;</string>
                         </property>
                         <property name="icon">
                          <iconset>
-                          <normaloff>icons/plus.png</normaloff>icons/plus.png</iconset>
+                          <normaloff>../../PicoSoft-project/icons/plus.png</normaloff>../../PicoSoft-project/icons/plus.png</iconset>
                         </property>
                        </widget>
                       </item>
@@ -2096,7 +2096,7 @@ border: none;</string>
                               </property>
                               <property name="icon">
                                <iconset>
-                                <normaloff>icons/buttonRight.png</normaloff>icons/buttonRight.png</iconset>
+                                <normaloff>../../PicoSoft-project/icons/buttonRight.png</normaloff>../../PicoSoft-project/icons/buttonRight.png</iconset>
                               </property>
                              </widget>
                             </item>
@@ -2218,7 +2218,7 @@ border: none;</string>
                         </property>
                         <property name="icon">
                          <iconset>
-                          <normaloff>icons/plus.png</normaloff>icons/plus.png</iconset>
+                          <normaloff>../../PicoSoft-project/icons/plus.png</normaloff>../../PicoSoft-project/icons/plus.png</iconset>
                         </property>
                        </widget>
                       </item>
@@ -3757,7 +3757,7 @@ border-radius: 15px;</string>
                          <string/>
                         </property>
                         <property name="pixmap">
-                         <pixmap>icons/clock.png</pixmap>
+                         <pixmap>../../PicoSoft-project/icons/clock.png</pixmap>
                         </property>
                        </widget>
                       </item>
@@ -3827,7 +3827,7 @@ border-radius: 15px;</string>
                          <string/>
                         </property>
                         <property name="pixmap">
-                         <pixmap>icons/clock.png</pixmap>
+                         <pixmap>../../PicoSoft-project/icons/clock.png</pixmap>
                         </property>
                        </widget>
                       </item>
@@ -3895,7 +3895,7 @@ border-radius: 15px;</string>
                          <string/>
                         </property>
                         <property name="pixmap">
-                         <pixmap>icons/clock.png</pixmap>
+                         <pixmap>../../PicoSoft-project/icons/clock.png</pixmap>
                         </property>
                        </widget>
                       </item>
