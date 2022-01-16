@@ -24,4 +24,4 @@ python3 main.py
 - [Pyside6 doc](https://doc.qt.io/qtforpython/)
 
 ## Attention !
-This is not a commercial project. You are free to use it only in your none-commercial projects. There are 2 problems and i'm working on. I have to implement a custom QLineEdit and also, the calendar is not responsive. Now i'm busy. I will fix it in 2 3 days.
+This is not a commercial project. You are free to use it only in your non-commercial projects. There are 2 problems and i'm working on. I have to implement a custom QLineEdit and also, the calendar is not responsive. Now i'm busy. I will fix it in 2 3 days.
